@@ -1,6 +1,6 @@
 # Tribute Page / Chester Bennington
 
-![Tribute Page](https://img.shields.io/badge/freecodecamp-tribute--page-green)
+[![Tribute Page](https://img.shields.io/badge/freecodecamp-tribute--page-green)](https://codepen.io/rafael-mendoza/full/OKpLrQ)
 
 > A project from Freecodecamp Responsive Web Design Certification Build a Tribute Page Project. i created a tribute page to the late Chester Benniington lead vocalist of linkin park. all the information found in wikipedia history, bio, etc about chester.
 
