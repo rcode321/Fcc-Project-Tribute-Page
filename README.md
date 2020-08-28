@@ -21,7 +21,7 @@ This project i created from Freecodecamp curriculum Tribute Page is to apply all
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot.jpg)
+![Example screenshot](./Fcc-Project-Tribute-Page/img/Screenshot.jpg)
 
 ## Technologies
 
