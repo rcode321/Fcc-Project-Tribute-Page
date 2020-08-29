@@ -19,7 +19,7 @@ This project i created from Freecodecamp curriculum Tribute Page is to apply all
 
 ## Screenshots
 
-![Example screenshot](/img/Screenshot.jpg)<br/>
+## ![Example screenshot](/img/Screenshot.jpg)
 
 ![GIF screenshot](/img/Tribute-Page.gif)
 
