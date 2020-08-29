@@ -25,17 +25,17 @@ This project i created from Freecodecamp curriculum Tribute Page is to apply all
 
 ## Setup
 
-##👋 Hello!  
+## 👋 Hello!
+
 Quick Start guide for you to setup this repo,
 
-##🚀 Quick Start
+## 🚀 Quick Start
 
 1. Frok this repo
 2. clone your forked repo
 
    ```
    git clone https://github.com/rcode321/Fcc-Project-Tribute-Page.git
-
    ```
 
 ## Technologies
