@@ -10,9 +10,7 @@
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Features](#features)
 - [Status](#status)
-- [Inspiration](#inspiration)
 - [Contact](#contact)
 
 ## General info
@@ -22,7 +20,23 @@ This project i created from Freecodecamp curriculum Tribute Page is to apply all
 ## Screenshots
 
 ![Example screenshot](/img/Screenshot.jpg)
+
 ![GIF screenshot](/img/Tribute-Page.gif)
+
+## Setup
+
+👋 Hello!  
+Quick Start guide for you to setup this repo,
+
+🚀 Quick Start
+
+1. Frok this repo
+2. clone your forked repo
+
+   ```
+   git clone https://github.com/rcode321/Fcc-Project-Tribute-Page.git
+
+   ```
 
 ## Technologies
 
